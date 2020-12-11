@@ -27,5 +27,12 @@
 }
 
 footer{
+    border-top: 1px solid black;
     text-align: center;
+}
+
+#selfie{
+    width: 250px; 
+    position: relative;
+
 }
